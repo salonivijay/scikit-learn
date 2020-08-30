@@ -1,0 +1,2 @@
+import pickel
+s = import.pickel(clf)
