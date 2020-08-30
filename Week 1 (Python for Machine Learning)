@@ -1,0 +1,2 @@
+from sklearn import preprocessing
+X = preprocessing.StandardScaler().fit(X).transform(X)
